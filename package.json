@@ -1,6 +1,6 @@
 {
   "name": "nuxtjs-generate-single-route",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Enables generation of one single route when using the \"nuxt generate\" command",
   "main": "index.js",
   "repository": {
