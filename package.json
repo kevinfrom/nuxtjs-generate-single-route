@@ -1,0 +1,27 @@
+{
+  "name": "nuxtjs-generate-single-route",
+  "version": "1.0.0",
+  "description": "Enables generation of one single route when using the \"nuxt generate\" command",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinfrom/nuxt-generate-single-route.git"
+  },
+  "keywords": [
+    "nuxt",
+    "generate",
+    "single",
+    "route",
+    "build",
+    "incremental",
+    "single",
+    "build",
+    "icr"
+  ],
+  "author": "Kevin From <kevinfrom@live.dk>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinfrom/nuxt-generate-single-route/issues"
+  },
+  "homepage": "https://github.com/kevinfrom/nuxt-generate-single-route#readme"
+}
